@@ -1,0 +1,27 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px 100px;
+    color: white;
+}
+.nav-logo{
+    font-size: 40px;
+    font-weight: 650;
+    
+    font-family: 'Open Sans';
+}
+.nav-menu{
+    display: flex;
+    gap: 90px;
+    font-size: 18px;
+    font-weight: 500;
+    list-style: none;
+}
+.nav-contact {
+    border-radius: 40px;
+    padding: 10px 38px;
+    background: #fff;
+    color: #262626;
+    
+}
